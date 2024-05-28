@@ -17,7 +17,7 @@ const MainLayout = ({ children }) => {
 
             {children}
 
-            <div>
+            <div className="footer">
                 <p>Footer</p>
             </div>
         </>

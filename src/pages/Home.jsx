@@ -1,7 +1,9 @@
+import './styles.css';
+
 function Home(){
     return (
  
-            <h1>Plateforme de cours</h1>
+            <h1 className='home'>Plateforme de cours</h1>
     
     );
 }       
