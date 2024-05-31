@@ -15,12 +15,11 @@
 
   li {
     display: inline-block;
-    margin: 0 80px 20px 80px;
+    margin:0 80px 0 0;
   }
 
   ul{
     border-bottom: solid 1px white !important;
-    margin: 0 200px 0 200px;
   }
   
   a {
