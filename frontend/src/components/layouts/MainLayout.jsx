@@ -13,6 +13,12 @@ const MainLayout = ({ children }) => {
                 <li>
                     <Link to ="/coursesindex">Liste des Cours</Link> 
                 </li>
+                <li>
+                    <Link to ="/stateexample">Compteur</Link> 
+                </li>
+                <li>
+                    <Link to ="/form">Créer un Cours</Link> 
+                </li>
             </ul>
 
             {children}
