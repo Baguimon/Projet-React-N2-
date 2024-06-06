@@ -11,7 +11,10 @@
   },
   "dependencies": {
     "jotai": "^2.8.2",
+<<<<<<< HEAD
     "js-cookie": "^3.0.5",
+=======
+>>>>>>> 5d2e0f2ffc88d4403c91b2758f9fd6d4e1462ce0
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-router-dom": "^6.23.0"

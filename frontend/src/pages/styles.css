@@ -19,7 +19,11 @@
   }
 
   ul{
+<<<<<<< HEAD
     border-bottom: solid 1px rgb(0, 0, 0) !important;
+=======
+    border-bottom: solid 1px white !important;
+>>>>>>> 5d2e0f2ffc88d4403c91b2758f9fd6d4e1462ce0
   }
   
   a {
